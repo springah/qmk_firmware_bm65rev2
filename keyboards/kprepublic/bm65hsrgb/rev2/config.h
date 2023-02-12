@@ -101,6 +101,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *  These options are also useful to firmware size reduction.
  */
 
+#define RGBLIGHT_SLEEP
+#define RGB_DISABLE_WHEN_USB_SUSPENDED
+
 /* disable debug print */
 //#define NO_DEBUG
 
